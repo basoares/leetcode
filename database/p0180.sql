@@ -1,0 +1,10 @@
+;WITH CTE AS
+(
+  SELECT Id - ROW_NUMBER() OVER (PARTITION BY Num ORDER BY Id) AS GrpId, Id, Num 
+    FROM Logs
+)
+SELECT DISTINCT Num AS ConsecutiveNums
+  FROM CTE
+ GROUP BY GrpId, Num
+HAVING COUNT(1) >= 3
+

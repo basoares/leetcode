@@ -31,4 +31,5 @@ My accepted LeetCode solutions to some database and algorithms problems.
 
 | #  | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [python](./algorithms/p0001.sql)|Easy|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [python](./algorithms/p0001.py)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)| [python](./algorithms/p1108.py)|Easy|

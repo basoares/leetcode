@@ -10,6 +10,6 @@ My accepted LeetCode solutions to some database and algorithms problems.
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [mysql](./database/p0175.sql)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)| [mssql](./database/p0176.sql)|Easy|
-|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)| [mssql](./shell/p0177.sql)|Medium|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)| [mssql](./database/p0177.sql)|Medium|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)| [mysql](./database/p0595.sql)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)| [mysql](./database/p0596.sql)|Easy|
